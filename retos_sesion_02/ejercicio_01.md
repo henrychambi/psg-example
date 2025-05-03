@@ -30,4 +30,4 @@ Arma tu sándwich:
 5. Como paso extra puedes poner el sándwich ya armado en la plancha un par de minutos por cada cara para que el calor derrita el queso y sea todo maravilloso.
 
 
-![SANSDWICH](sandwich.png)
+![SANSDWICH](sandwich2.jpg)
