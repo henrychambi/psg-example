@@ -1,0 +1,7 @@
+print ("People: Hi Cat, how are you")
+print ("Cat: MIAUU")
+print ("Persona: how pretty you are Cat, are you hungry?")
+print ("Cat: Miauuu")
+print ("People: take this piece of bread and milk, cat")
+print ("Cat: Miau(grrr grrr)")
+print ("People: bye bye, beautiful cat")
