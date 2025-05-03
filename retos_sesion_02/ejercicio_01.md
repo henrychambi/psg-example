@@ -1,4 +1,4 @@
-# ejercicio 1
+# EJERCICIO 1
 
 ## Sandwich de jamon y queso
 
@@ -28,3 +28,6 @@ Arma tu sándwich:
 3. Luego pon el queso, y encima el jamón.
 4. Tapa con la otra cara del pan y listo.
 5. Como paso extra puedes poner el sándwich ya armado en la plancha un par de minutos por cada cara para que el calor derrita el queso y sea todo maravilloso.
+
+
+![SANSDWICH](sandwich.png)
